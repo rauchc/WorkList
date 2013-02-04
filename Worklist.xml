@@ -1,0 +1,12 @@
+<WorkList>
+  <New>
+    <item>Test New</item>
+  </New>
+  <InProgress>
+    <item>Test In Progress</item>
+    <item>Test 2</item>
+  </InProgress>
+  <Done>
+    <item>Test Done</item>
+  </Done>
+</WorkList>
